@@ -9,7 +9,7 @@ function App() {
       </Helmet>
       <body>
         <h1>Luke Jianu</h1>
-        <h2><a href="https://github.com/nikhilsardana">github</a> | <a href="mailto:nsardana@stanford.edu">contact</a></h2>
+        <h2><a href="https://github.com/lukejianu">github</a> | <a href="mailto:jianuluke@gmail.com">contact</a></h2>
         <h2>
           <p>
             Northeastern University
