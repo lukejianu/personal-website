@@ -1,3 +1,3 @@
 # Credit
 
-Based off https://nikhilsardana.github.io/.
+Based off https://nikhilsardana.github.io
