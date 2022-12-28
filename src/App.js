@@ -12,9 +12,9 @@ function App() {
         <body>
           <h1>Luke Jianu</h1>
           <h2>
-            <a href="https://github.com/lukejianu" target='_blank'>github</a>
+            <a href="https://github.com/lukejianu" target="_blank" rel="noopener noreferrer">github</a>
             &nbsp;| <a href="mailto:jianuluke@gmail.com">contact</a>
-            &nbsp;| <a href="LJ_Resume.pdf" target='_blank' rel="noopener noreferrer">cv</a>
+            &nbsp;| <a href="LJ_Resume.pdf" target="_blank" rel="noopener noreferrer">cv</a>
           </h2>
           <h2>Northeastern University</h2>
         </body>
