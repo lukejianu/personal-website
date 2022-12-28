@@ -12,7 +12,7 @@ body {
 
 a {
   color: #565151;
-  font-weight: 400;
+  font-weight: normal;
   text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ table {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2.5em;
   color: #2f343e;
   text-align: center;
   margin: auto;
@@ -39,7 +39,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  font-weight: 400;
+  font-weight: normal;
   margin-top: 1.5em;
   max-width: 600px;
   text-align: center;
