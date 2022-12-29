@@ -14,7 +14,7 @@ function App() {
           <h2>
             <a href="https://github.com/lukejianu" target="_blank" rel="noopener noreferrer">github</a>
             &nbsp;| <a href="mailto:jianuluke@gmail.com">contact</a>
-            &nbsp;| <a href="https://github.com/lukejianu/personal-website/raw/main/public/LJ_Resume.pdf" target="_blank" rel="noopener noreferrer">cv</a>
+            &nbsp;| <a href="https://github.com/lukejianu/personal-website/raw/main/public/LukeJianu_Resume.pdf" target="_blank" rel="noopener noreferrer">cv</a>
             &nbsp;| <a href="https://nikhilsardana.github.io/" target="_blank" rel="noopener noreferrer">credit</a>
           </h2>
           <h2>Northeastern University</h2>
